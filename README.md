@@ -1,2 +1,2 @@
-# -IT260HannahEarley
+# IT260HannahEarley
 IT260 class 
